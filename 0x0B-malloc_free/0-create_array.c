@@ -19,6 +19,8 @@
  */
 		
 char *create_array(unsigned int size, char c)
+// Returns a pointer to an array of 'size' chars, allocated dynamically using 'malloc'.
+// The caller is responsible for freeing the memory using 'free'.
 		
 {
 		
