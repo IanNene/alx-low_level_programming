@@ -8,7 +8,10 @@
 	 * @age: Second member
 	 * @owner: Third member
 	 *
-	 * Description: Longer description
+	 * Description: This struct represents a dog and its basic information,
+	 * including the dog's name, age, and owner. Each member variable is
+	 * represented by a char pointer, a float, and another char pointer,
+	 * respectively.
 	 */
 	struct dog
 	{
